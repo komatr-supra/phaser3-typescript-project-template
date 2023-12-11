@@ -1,46 +1,87 @@
 import * as Phaser from 'phaser';
-
-export default class Demo extends Phaser.Scene
-{
-    constructor ()
-    {
-        super('demo');
-    }
-
-    preload ()
-    {
-        this.load.image('logo', 'assets/phaser3-logo.png');
-        this.load.image('libs', 'assets/libs.png');
-        this.load.glsl('bundle', 'assets/plasma-bundle.glsl.js');
-        this.load.glsl('stars', 'assets/starfields.glsl.js');
-    }
-
-    create ()
-    {
-        this.add.shader('RGB Shift Field', 0, 0, 800, 600).setOrigin(0);
-
-        this.add.shader('Plasma', 0, 412, 800, 172).setOrigin(0);
-
-        this.add.image(400, 300, 'libs');
-
-        const logo = this.add.image(400, 70, 'logo');
-
-        this.tweens.add({
-            targets: logo,
-            y: 350,
-            duration: 1500,
-            ease: 'Sine.inOut',
-            yoyo: true,
-            repeat: -1
-        })
-    }
-}
+import Demo from './Demo';
 
 const config = {
-    type: Phaser.AUTO,
-    backgroundColor: '#125555',
-    width: 800,
-    height: 600,
+    type: Phaser.WEBGL,
+    width: 640,
+    height: 360,
+    backgroundColor: '#2d2d2d',
+    parent: 'phaser-example',
+    pixelArt: true,
+    
+    physics: {
+        default: 'matter',
+        matter: {
+            gravity: {y: 0},
+            enableSleep: true,
+            debug: {
+
+                showAxes: false,
+                showAngleIndicator: true,
+                angleColor: 0xe81153,
+
+                showBroadphase: false,
+                broadphaseColor: 0xffb400,
+
+                showBounds: false,
+                boundsColor: 0xffffff,
+
+                showVelocity: true,
+                velocityColor: 0x00aeef,
+
+                showCollisions: true,
+                collisionColor: 0xf5950c,
+    
+                showSeparations: false,
+                separationColor: 0xffa500,
+
+                showBody: true,
+                showStaticBody: true,
+                showInternalEdges: true,
+
+                renderFill: false,
+                renderLine: true,
+    
+                fillColor: 0x106909,
+                fillOpacity: 1,
+                lineColor: 0x28de19,
+                lineOpacity: 1,
+                lineThickness: 1,
+    
+                staticFillColor: 0x0d177b,
+                staticLineColor: 0x1327e4,
+
+                showSleeping: true,
+                staticBodySleepOpacity: 1,
+                sleepFillColor: 0x464646,
+                sleepLineColor: 0x999a99,
+    
+                showSensors: true,
+                sensorFillColor: 0x0d177b,
+                sensorLineColor: 0x1327e4,
+    
+                showPositions: true,
+                positionSize: 4,
+                positionColor: 0xe042da,
+    
+                showJoint: true,
+                jointColor: 0xe0e042,
+                jointLineOpacity: 1,
+                jointLineThickness: 2,
+    
+                pinSize: 4,
+                pinColor: 0x42e0e0,
+    
+                springColor: 0xe042e0,
+    
+                anchorColor: 0xefefef,
+                anchorSize: 4,
+    
+                showConvexHulls: true,
+                hullColor: 0xd703d0
+            }
+        }
+    },
     scene: Demo
 };
 

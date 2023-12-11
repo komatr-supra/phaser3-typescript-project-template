@@ -1,0 +1,3317 @@
+{
+	"textures": [
+		{
+			"image": "characters.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 316,
+				"h": 128
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "devil_walk_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 17,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 17,
+						"h": 21
+					}
+				},
+				{
+					"filename": "devil_walk_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 17,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 24,
+						"w": 17,
+						"h": 20
+					}
+				},
+				{
+					"filename": "devil_idle_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 46,
+						"w": 16,
+						"h": 20
+					}
+				},
+				{
+					"filename": "devil_walk_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 68,
+						"w": 16,
+						"h": 20
+					}
+				},
+				{
+					"filename": "devil_walk_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 16,
+						"h": 20
+					}
+				},
+				{
+					"filename": "devil_death_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 20,
+						"h": 11
+					},
+					"frame": {
+						"x": 1,
+						"y": 112,
+						"w": 20,
+						"h": 11
+					}
+				},
+				{
+					"filename": "dragon_walk_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 19,
+						"y": 46,
+						"w": 16,
+						"h": 20
+					}
+				},
+				{
+					"filename": "dragon_walk_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 19,
+						"y": 68,
+						"w": 16,
+						"h": 20
+					}
+				},
+				{
+					"filename": "dragon_walk_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 19,
+						"y": 90,
+						"w": 16,
+						"h": 20
+					}
+				},
+				{
+					"filename": "demon_hit_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 23,
+						"y": 112,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "devil_death_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 20,
+						"y": 1,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "devil_fall",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 20,
+						"y": 22,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "devil_hit_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 37,
+						"y": 43,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "devil_idle_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 38,
+						"y": 1,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "devil_jump",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 38,
+						"y": 22,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "dragon_fall",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 37,
+						"y": 64,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "dragon_idle_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 37,
+						"y": 85,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "dragon_jump",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 39,
+						"y": 106,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "dragon_walk_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 16,
+						"h": 19
+					},
+					"frame": {
+						"x": 55,
+						"y": 43,
+						"w": 16,
+						"h": 19
+					}
+				},
+				{
+					"filename": "devil_hit_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 10,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 56,
+						"y": 1,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "devil_idle_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 10,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 56,
+						"y": 21,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "devil_land",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 10,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 55,
+						"y": 64,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "dragon_death_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 55,
+						"y": 84,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "dragon_hit_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 57,
+						"y": 104,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "dragon_hit_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 57,
+						"y": 104,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "dragon_idle_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 73,
+						"y": 41,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "dragon_idle_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 73,
+						"y": 41,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "devil_hit_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 11,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 74,
+						"y": 1,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "devil_idle_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 11,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 74,
+						"y": 20,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "dragon_hit_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 73,
+						"y": 61,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "dragon_idle_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 73,
+						"y": 80,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "dragon_land",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 73,
+						"y": 80,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "devil_death_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 75,
+						"y": 99,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "humanF1_death_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 18,
+						"h": 10
+					},
+					"frame": {
+						"x": 75,
+						"y": 117,
+						"w": 18,
+						"h": 10
+					}
+				},
+				{
+					"filename": "dragon_death_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 91,
+						"y": 39,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "demon_walk_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 92,
+						"y": 1,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "demon_death_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 92,
+						"y": 21,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "demon_walk_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 108,
+						"y": 1,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "demon_hit_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 108,
+						"y": 21,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "demon_hit_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 108,
+						"y": 21,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "demon_walk_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 91,
+						"y": 57,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "goblinKing_walk_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 91,
+						"y": 77,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "hobgoblin_walk_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 93,
+						"y": 97,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "goblin_death_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 17,
+						"h": 10
+					},
+					"frame": {
+						"x": 95,
+						"y": 117,
+						"w": 17,
+						"h": 10
+					}
+				},
+				{
+					"filename": "humanF1_walk_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 107,
+						"y": 57,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "demon_idle_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 109,
+						"y": 39,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "demon_idle_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 109,
+						"y": 39,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "humanF1_walk_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 107,
+						"y": 77,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "humanF1_walk_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 109,
+						"y": 97,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "hobgoblin_death_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 17,
+						"h": 10
+					},
+					"frame": {
+						"x": 114,
+						"y": 117,
+						"w": 17,
+						"h": 10
+					}
+				},
+				{
+					"filename": "demon_fall",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 124,
+						"y": 1,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "demon_idle_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 124,
+						"y": 20,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "demon_jump",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 123,
+						"y": 57,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "humanF1_death_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 125,
+						"y": 39,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "demon_walk_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 123,
+						"y": 76,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "goblin_walk_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 125,
+						"y": 95,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "demon_death_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 13,
+						"w": 18,
+						"h": 11
+					},
+					"frame": {
+						"x": 133,
+						"y": 114,
+						"w": 18,
+						"h": 11
+					}
+				},
+				{
+					"filename": "humanF1_fall",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 140,
+						"y": 1,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "humanF1_idle_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 140,
+						"y": 20,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "humanF1_jump",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 139,
+						"y": 57,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "humanF1_hit_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 141,
+						"y": 39,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "humanF1_hit_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 141,
+						"y": 39,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "humanF1_walk_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 139,
+						"y": 76,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "playerFD_death_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 141,
+						"y": 95,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "dragon_death_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 13,
+						"w": 18,
+						"h": 11
+					},
+					"frame": {
+						"x": 153,
+						"y": 114,
+						"w": 18,
+						"h": 11
+					}
+				},
+				{
+					"filename": "playerFD_fall",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 156,
+						"y": 1,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "playerFD_idle_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 156,
+						"y": 1,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "playerFD_walk_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 156,
+						"y": 1,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "playerFD_hit_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 12,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 156,
+						"y": 20,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "playerFD_idle_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 155,
+						"y": 57,
+						"w": 14,
+						"h": 17
+					}
+				},
+				{
+					"filename": "humanF1_idle_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 157,
+						"y": 39,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "humanF1_idle_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 157,
+						"y": 39,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "playerFD_hit_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 13,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 155,
+						"y": 76,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "goblinKing_walk_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 13,
+						"h": 18
+					},
+					"frame": {
+						"x": 157,
+						"y": 94,
+						"w": 13,
+						"h": 18
+					}
+				},
+				{
+					"filename": "goblinKing_walk_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 13,
+						"h": 18
+					},
+					"frame": {
+						"x": 171,
+						"y": 57,
+						"w": 13,
+						"h": 18
+					}
+				},
+				{
+					"filename": "demon_idle_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 171,
+						"y": 77,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "demon_land",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 171,
+						"y": 77,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "hobgoblin_walk_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 13,
+						"h": 18
+					},
+					"frame": {
+						"x": 172,
+						"y": 94,
+						"w": 13,
+						"h": 18
+					}
+				},
+				{
+					"filename": "playerFD_death_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 18,
+						"w": 18,
+						"h": 11
+					},
+					"frame": {
+						"x": 173,
+						"y": 114,
+						"w": 18,
+						"h": 11
+					}
+				},
+				{
+					"filename": "hobgoblin_walk_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 13,
+						"h": 18
+					},
+					"frame": {
+						"x": 172,
+						"y": 1,
+						"w": 13,
+						"h": 18
+					}
+				},
+				{
+					"filename": "playerFD_idle_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 172,
+						"y": 21,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "playerFD_jump",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 173,
+						"y": 39,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "playerFD_roll_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 187,
+						"y": 1,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "playerFD_walk_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 188,
+						"y": 19,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "playerFD_walk_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 14,
+						"h": 16
+					},
+					"frame": {
+						"x": 203,
+						"y": 1,
+						"w": 14,
+						"h": 16
+					}
+				},
+				{
+					"filename": "goblin_walk_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 186,
+						"y": 57,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "goblin_walk_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 189,
+						"y": 37,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "goblinKing_fall",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 187,
+						"y": 76,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "goblinKing_idle_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 187,
+						"y": 95,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "goblinKing_death_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 13,
+						"w": 17,
+						"h": 11
+					},
+					"frame": {
+						"x": 193,
+						"y": 114,
+						"w": 17,
+						"h": 11
+					}
+				},
+				{
+					"filename": "goblinKing_jump",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 201,
+						"y": 56,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "goblinKing_walk_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 204,
+						"y": 19,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "humanF1_hit_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 204,
+						"y": 38,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "hobgoblin_fall",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 219,
+						"y": 1,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "humanF1_idle_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 219,
+						"y": 20,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "humanF1_land",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 219,
+						"y": 20,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "hobgoblin_idle_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 234,
+						"y": 1,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "hobgoblin_jump",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 202,
+						"y": 75,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "hobgoblin_walk_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 216,
+						"y": 55,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "playerFD_hit_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 14,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 220,
+						"y": 37,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "playerFD_idle_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 14,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 235,
+						"y": 20,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "playerFD_land",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 249,
+						"y": 1,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "playerFD_roll_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 14,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 202,
+						"y": 94,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "playerFD_walk_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 14,
+						"w": 14,
+						"h": 15
+					},
+					"frame": {
+						"x": 212,
+						"y": 111,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "goblin_fall",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 217,
+						"y": 74,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "goblin_idle_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 218,
+						"y": 92,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "goblin_jump",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 228,
+						"y": 110,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "goblin_walk_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 231,
+						"y": 54,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "demon_death_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 236,
+						"y": 37,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "goblinKing_death_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 251,
+						"y": 18,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ghost_death_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 265,
+						"y": 1,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "goblinKing_hit_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 232,
+						"y": 72,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "goblinKing_hit_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 232,
+						"y": 72,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "goblinKing_idle_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 246,
+						"y": 53,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "goblinKing_idle_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 246,
+						"y": 53,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "humanF1_death_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 252,
+						"y": 36,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "hobgoblin_death_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 266,
+						"y": 17,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "hobgoblin_hit_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 233,
+						"y": 90,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "hobgoblin_hit_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 233,
+						"y": 90,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "hobgoblin_idle_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 247,
+						"y": 71,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "hobgoblin_idle_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 247,
+						"y": 71,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ghost_hit_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 261,
+						"y": 52,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ghost_hit_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 261,
+						"y": 52,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "playerFD_death_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 268,
+						"y": 35,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "playerFD_roll_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 268,
+						"y": 35,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "ghost_idle_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 243,
+						"y": 108,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ghost_idle_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 243,
+						"y": 108,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ghost_idle_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 243,
+						"y": 108,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ghost_walk_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 243,
+						"y": 108,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ghost_walk_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 243,
+						"y": 108,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ghost_walk_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 243,
+						"y": 108,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ghost_walk_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 243,
+						"y": 108,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "playerFD_roll_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 14,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 248,
+						"y": 89,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "playerFD_roll_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 262,
+						"y": 71,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "playerFD_roll_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 16,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 275,
+						"y": 51,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "playerFD_roll_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 257,
+						"y": 105,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "ghost_death_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 18,
+						"w": 14,
+						"h": 6
+					},
+					"frame": {
+						"x": 257,
+						"y": 121,
+						"w": 14,
+						"h": 6
+					}
+				},
+				{
+					"filename": "goblin_death_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 264,
+						"y": 87,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "goblin_hit_0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 278,
+						"y": 67,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "goblin_hit_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 278,
+						"y": 67,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "goblin_idle_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 273,
+						"y": 104,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "goblin_idle_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 273,
+						"y": 104,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "goblinKing_hit_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 279,
+						"y": 84,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "goblinKing_idle_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 288,
+						"y": 101,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "goblinKing_land",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 288,
+						"y": 101,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "hobgoblin_hit_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 281,
+						"y": 1,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "hobgoblin_idle_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 281,
+						"y": 18,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "hobgoblin_land",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 281,
+						"y": 18,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "goblin_hit_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 284,
+						"y": 35,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "goblin_idle_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 291,
+						"y": 51,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "goblin_land",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 291,
+						"y": 51,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "goblinKing_death_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 293,
+						"y": 67,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "ghost_hit_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 12,
+						"h": 16
+					},
+					"frame": {
+						"x": 294,
+						"y": 83,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ghost_idle_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 8,
+						"w": 12,
+						"h": 16
+					},
+					"frame": {
+						"x": 303,
+						"y": 101,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "hobgoblin_death_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 296,
+						"y": 1,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "goblin_death_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 13,
+						"h": 13
+					},
+					"frame": {
+						"x": 296,
+						"y": 17,
+						"w": 13,
+						"h": 13
+					}
+				},
+				{
+					"filename": "ghost_death_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 14,
+						"w": 14,
+						"h": 10
+					},
+					"frame": {
+						"x": 299,
+						"y": 32,
+						"w": 14,
+						"h": 10
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fe5c5b18ecfc46750740c88242d5b1d8:3c0c0221c2cf3f2d0bacd74c32fe2c18:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+	}
+}
